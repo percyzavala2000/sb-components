@@ -1,2 +1,0 @@
-githubToken: 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
-npm token:   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
