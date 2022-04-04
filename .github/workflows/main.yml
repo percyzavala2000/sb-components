@@ -31,7 +31,7 @@ jobs:
         run: Npm Install 
 
       - name: Build App
-        run: Npm build   
+        run: npm run build   
 
       - name: Semantic Release
         env: 
